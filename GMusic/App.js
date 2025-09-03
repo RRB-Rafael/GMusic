@@ -49,7 +49,7 @@ export default function App() {
           <Ionicons name='play-skip-back-outline' size={35} color='#FFD369'/> 
         </TouchableOpacity>
         <TouchableOpacity>
-          <Ionicons name='pause-circle' size={35} color='#FFD369'/> 
+          <Ionicons name='pause-circle' size={75} color='#FFD369'/> 
         </TouchableOpacity>
         <TouchableOpacity>
           <Ionicons name='play-skip-forward-outline' size={35} color='#FFD369'/> 
